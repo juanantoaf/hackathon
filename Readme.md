@@ -1,0 +1,8 @@
+![task1](https://user-images.githubusercontent.com/90078130/132083583-81b1dda5-c2e2-49ef-81c0-45f0e82a4a6e.png)
+[task2.txt](https://github.com/juanantoaf/hackathon/files/7109247/task2.txt)
+![task3](https://user-images.githubusercontent.com/90078130/132083585-cdbf9f89-7b76-4326-ae7f-7158eec0cab0.png)
+![task4](https://user-images.githubusercontent.com/90078130/132083586-1ca52e03-fc6b-45a2-bdff-c42aefae7692.png)
+[task5.txt](https://github.com/juanantoaf/hackathon/files/7109248/task5.txt)
+[Task6.txt](https://github.com/juanantoaf/hackathon/files/7109249/Task6.txt)
+[task7.txt](https://github.com/juanantoaf/hackathon/files/7109250/task7.txt)
+[task8.txt](https://github.com/juanantoaf/hackathon/files/7109251/task8.txt)
